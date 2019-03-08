@@ -1,0 +1,5 @@
+SG_KEY = '' # sendgird key
+SENTRY_SDN = '' # sentry sdn
+BROKER = '' # celery broker
+MINIO_AK = '' # minio(s3) ak
+MINIO_SK = '' # minio(s3) ak
