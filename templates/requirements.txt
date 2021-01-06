@@ -7,7 +7,7 @@ billiard==3.5.0.5
 blinker==1.4
 bs4==0.0.1
 cairocffi==1.0.2
-CairoSVG==2.3.0
+CairoSVG==2.5.1
 celery==4.2.1
 certifi==2018.11.29
 cffi==1.12.2
