@@ -26,7 +26,7 @@ idna-ssl==1.1.0
 itsdangerous==1.1.0
 Jinja2==2.10
 kombu==4.4.0
-lxml==4.3.2
+lxml==4.6.2
 MarkupSafe==1.1.1
 minio==4.0.11
 monotonic==1.5
