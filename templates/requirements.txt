@@ -31,7 +31,7 @@ MarkupSafe==1.1.1
 minio==4.0.11
 monotonic==1.5
 multidict==4.5.2
-Pillow==5.4.1
+Pillow==9.0.1
 pycparser==2.19
 Pyphen==0.9.5
 python-dateutil==2.8.0
